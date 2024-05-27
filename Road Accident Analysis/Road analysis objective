@@ -1,0 +1,30 @@
+1.	Data Gathering
+2.	Data Cleaning
+3.	Data Processing
+4.	Data Analysis
+5.	Data Visualization
+
+ 
+----------REQUIREMENT-------------------
+ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
+
+-Primary KPI - Total Casualties taken place after the accident
+-Primary KPI's - Total Casualties & percentage of total with respect to accident severity and
+maximum casualties by type of vehicle
+-Secondary KPI's - Total Casualties with respect to vehicle type
+-Monthly trend showing comparison of casualties for Current Year and Previous Year
+-Maximum casualties by Road Type
+-Distribution of total casualties by Road Surface
+-Relation between Casualties by Area/ Location & by Day/Night
+ 
+ 
+
+Requirements:
+Create pivot chart
+1.	Number of casualties
+2.	No of causalities wrt accident severity(rows)
+3.	Find severity for each
+= severity of one/sum of severity of other two
+
+(Shortcut to make cell values static: fn+f4)
+4.	
